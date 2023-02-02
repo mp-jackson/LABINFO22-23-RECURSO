@@ -1,0 +1,52 @@
+    1  pwd
+    2  cd LABINFO22-23-RECURSO/
+    3  cd aluno
+    4  pwd
+    5  mv /home/runner/LABINFO/LABINFO22-23-RECURSO/README.md 
+    6  mv /home/runner/LABINFO/LABINFO22-23-RECURSO/README.md aluno
+    7  ls
+    8  pwd
+    9  rm -ri aluno
+   10  ls
+   11  rm -ri aluno
+   12  ls
+   13  cd ..
+   14  cd ..
+   15  ls
+   16  cp README.md LABINFO22-23-RECURSO/
+   17  ls
+   18  cd LABINFO22-23-RECURSO/
+   19  ls
+   20  mv README.md aluno
+   21  ls
+   22  cd aluno
+   23  ls
+   24  clear
+   25  vi index.html
+   26  pwd
+   27  pwd
+   28  ls
+   29  vi
+   30  ls
+   31  git status
+   32  pwd
+   33  cd ..
+   34  cd ..
+   35  pwd
+   36  git status
+   37  cd LABINFO22-23-RECURSO/
+   38  git status
+   39  git add .
+   40  git commit -m "Criação do ficheiro index.html"
+   41  git config --global user.email "jacksonmp@ua.pt"
+   42  git config --global user.name "jacksonmp"
+   43  git status
+   44  git commit -m "Criação do ficheiro index.html"
+   45  git push
+   46  git status
+   47  git push 
+   48  git remote set-url origin https://provafinal@github.com/mp-jackson/LABINFO22-23-RECURSO.git
+   49  git push
+   50  git push
+   51  ls
+   52  history > comandosNoServidor.txt
